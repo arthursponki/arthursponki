@@ -1,7 +1,5 @@
 ## Hi, I'm Arthur Sponki 👋
 
-- Software engineering student at the University of Brasília, passionate about technology. 📚 <br>
-- Currently I work in the area of web development with HTML, CSS, Typescript, JavaScript, NodeJS, NestJS and React. 🌱 
 -  Full Stack Developer at Atena Solutions 👨‍💻
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursponki&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
