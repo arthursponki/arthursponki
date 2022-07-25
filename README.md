@@ -6,7 +6,7 @@
 ### Contacts
 
   <a href="https://www.linkedin.com/in/arthur-sponchiado-601562150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthurspo@gmail.com"><img src="https://icon-icons.com/pt/icone/gmail-novo-logo/159149" target="_blank"></a>
+  <a href = "mailto:arthurspo@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" target="_blank"></a>
   </div>
   
 ### Technologies
