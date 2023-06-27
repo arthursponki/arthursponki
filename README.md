@@ -2,7 +2,6 @@
 
 -  Full Stack Developer at Atena Solutions 👨‍💻
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursponki&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 ### Contacts
 
   <a href="https://www.linkedin.com/in/arthur-sponchiado-601562150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
