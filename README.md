@@ -1,6 +1,6 @@
 ## Hi, I'm Arthur Sponki 👋
 
--  Full Stack Developer at Atena Solutions 👨‍💻
+-  Software Engineer 👨‍💻
 
 ### Contacts
 
